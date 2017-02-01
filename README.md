@@ -1,1 +1,0 @@
-# Manheim-Info-Scanner-IOS
