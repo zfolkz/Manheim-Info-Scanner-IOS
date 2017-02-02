@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (4.2.0)
+  - BarcodeScanner (2.0.0)
+  - KCFloatingActionButton (2.1.2)
+  - KYDrawerController (2.0.1)
+  - Material (2.4.10):
+    - Material/Core (= 2.4.10)
+  - Material/Core (2.4.10)
+  - RIGImageGallery (0.3.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`)
+  - BarcodeScanner (from `https://github.com/hyperoslo/BarcodeScanner`)
+  - KCFloatingActionButton (from `https://github.com/kciter/KCFloatingActionButton`)
+  - KYDrawerController (from `https://github.com/ykyouhei/KYDrawerController`)
+  - Material (from `https://github.com/CosmicMind/Material`)
+  - RIGImageGallery (from `https://github.com/Raizlabs/RIGImageGallery`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+  BarcodeScanner:
+    :git: https://github.com/hyperoslo/BarcodeScanner
+  KCFloatingActionButton:
+    :git: https://github.com/kciter/KCFloatingActionButton
+  KYDrawerController:
+    :git: https://github.com/ykyouhei/KYDrawerController
+  Material:
+    :git: https://github.com/CosmicMind/Material
+  RIGImageGallery:
+    :git: https://github.com/Raizlabs/RIGImageGallery
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: 9c16d6899d4d0a35e320366e8ccf0c111f5d38d1
+    :git: https://github.com/Alamofire/Alamofire.git
+  BarcodeScanner:
+    :commit: 8634613443910ea42518bf2d6cabdf963aa3ac72
+    :git: https://github.com/hyperoslo/BarcodeScanner
+  KCFloatingActionButton:
+    :commit: ed8b7627871731b75ec2ad9145243012c9b79c97
+    :git: https://github.com/kciter/KCFloatingActionButton
+  KYDrawerController:
+    :commit: e53d3da0df96e44b06d35c8f653c2b82035b3f91
+    :git: https://github.com/ykyouhei/KYDrawerController
+  Material:
+    :commit: fe0c387eda5b589828533660a5a60f9faee4f8b6
+    :git: https://github.com/CosmicMind/Material
+  RIGImageGallery:
+    :commit: a823f051084c689d9a56e0c9fd252dda6defa1d5
+    :git: https://github.com/Raizlabs/RIGImageGallery
+  SwiftyJSON:
+    :commit: adf34cfb4c9f2ff4e3c420c6d9fb1e2eaf3b3791
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 26d8877ec03b4e6e6cbfbf7c03924b4844a2d453
+  BarcodeScanner: 266ab4b479d407b74bc4b473fa5020b4523ad9e3
+  KCFloatingActionButton: a368ca981f908d4478f6dcf53684864838fda349
+  KYDrawerController: b716cfa5730dc2133a67efcfc28b3b5a2cff6101
+  Material: 70ea8bd9ad17cc9e434831b06147ca825b30b228
+  RIGImageGallery: e57962965229d2a557e6ad35c1d1e64d66ed79da
+  SwiftyJSON: 05cf0e98a950e2ba343735264f5a96b81e755d00
+
+PODFILE CHECKSUM: d599717818666db97357b5b4ed9e885959fb8dde
+
+COCOAPODS: 1.1.1
