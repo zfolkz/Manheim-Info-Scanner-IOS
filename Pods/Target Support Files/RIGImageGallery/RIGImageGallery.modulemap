@@ -1,6 +1,0 @@
-framework module RIGImageGallery {
-  umbrella header "RIGImageGallery-umbrella.h"
-
-  export *
-  module * { export * }
-}

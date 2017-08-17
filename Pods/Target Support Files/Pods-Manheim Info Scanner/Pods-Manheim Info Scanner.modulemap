@@ -1,6 +1,0 @@
-framework module Pods_Manheim_Info_Scanner {
-  umbrella header "Pods-Manheim Info Scanner-umbrella.h"
-
-  export *
-  module * { export * }
-}
